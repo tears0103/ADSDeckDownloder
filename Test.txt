@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test b c
-=======
 test b c d
->>>>>>> new_branch_2
